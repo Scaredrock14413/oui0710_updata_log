@@ -1,0 +1,8 @@
+time_start=2026-04-28 6:10 P.M.
+time_end=2026-04-28 6:15 P.M.
+
+level="暫停全部服務"
+
+msg=["更新CLI控制器v1.0 --> v1.2"]
+
+https://github.com/Scaredrock14413/oui0710_CLI_controller,#V1.2
